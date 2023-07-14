@@ -1,0 +1,23 @@
+/* --------styling mainly the webpage title and button*/
+body{
+    background-color: white;
+}
+.hide_me
+{
+    display: none;
+
+}
+h1
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+#btn
+{
+    background-color: aquamarine;
+    border-radius: 8px;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
